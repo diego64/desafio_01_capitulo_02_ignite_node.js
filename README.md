@@ -2,7 +2,7 @@
     <img alt="Ignite" title="Ignite" src=".github/ignite.png" />
 </h1>
 
-<h2 align="center"> Desafio 02: Trabalhando com Middlewares </h2>
+<h2 align="center"> Desafio 01 - Introdução ao SOLID </h2>
 
 </br>
 
@@ -11,6 +11,7 @@
   <a href="#-projeto">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Rotas da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Rodando a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Testes da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 📦 Tecnologias
@@ -50,3 +51,10 @@ A aplicação está configurada para rodar na `https://localhost:3333`, utilize 
 Utilize o comando `yarn test` para que os testes possam ser executados.
 
 OBS: O projeto veio com o ESlint configurado mas estou tendo um problema que não estou conseguindo usar, por este motivo as duas primeiras linhas dos arquivos estão desativando a ferramenta de análise de código estática.
+
+## 📦 Testes da aplicação
+
+- Teste do model
+- Testes do repositório
+- Testes de useCases
+- Testes das rotas
