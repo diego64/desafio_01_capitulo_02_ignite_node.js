@@ -2,7 +2,7 @@
     <img alt="Ignite" title="Ignite" src=".github/ignite.png" />
 </h1>
 
-<h2 align="center"> Desafio 01 - Introdução ao SOLID </h2>
+<h2 align="center"> Desafio 01 - Introdução ao SOLID e Desafio 02 - Documentando com Swagger</h2>
 
 </br>
 
@@ -12,6 +12,8 @@
   <a href="#-layout">Rotas da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Rodando a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Testes da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Documentando com Swagger</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">O que é o Swagger</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 📦 Tecnologias
@@ -19,10 +21,13 @@
 - [Node.js](https://nodejs.org/en/)
 - [Jest.js](https://jestjs.io/pt-BR/)
 - [ESLint](https://eslint.org/)
+- [Swagger](https://swagger.io/)
 
 ## 📦 Sobre o desafio
 
-Essa será uma aplicação de listagem e cadastro de usuários. Para que a listagem de usuários funcione, o usuário que solicita a listagem deve ser um admin (mais detalhes ao longo da descrição).
+O primeiro desafio é uma aplicação de listagem e cadastro de usuários. Para que a listagem de usuários funcione, o usuário que solicita a listagem deve ser um admin (mais detalhes ao longo da descrição).
+
+O segundo desafio tem como objetivo realizar a documentação das rotas com o Swagger.
 
 ## 📦 Rotas da aplicação
 
@@ -58,3 +63,19 @@ OBS: O projeto veio com o ESlint configurado mas estou tendo um problema que nã
 - Testes do repositório
 - Testes de useCases
 - Testes das rotas
+
+## 📦 Documentando com Swagger
+
+A documentação deve servir como uma descrição das entradas e saídas da API. Os pontos documentados foram :
+
+- Informações gerais da API (nome, descrição, etc.);
+- Rotas;
+- Parâmetros;
+- Corpo da Requisição;
+- Respostas de sucesso;
+- Respostas de erro;
+- Exemplos.
+
+## 📦 O que é o Swagger
+
+Swagger é uma linguagem de descrição de interface para descrever API, atravéis dela é possivél descrever rotas, códigos de mensagens e escrever informações que vão explicar cada detalhe do seu códigos para as outras pessoas que vão ler. 
